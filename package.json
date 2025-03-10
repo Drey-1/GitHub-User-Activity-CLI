@@ -1,0 +1,22 @@
+{
+  "name": "github-user-activity-cli",
+  "version": "1.0.0",
+  "description": "A CLI that can search for someone's last activity on GitHub and return in the Terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "github-activity": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drey-1/GitHub-User-Activity-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Drey-1/GitHub-User-Activity-CLI/issues"
+  },
+  "homepage": "https://github.com/Drey-1/GitHub-User-Activity-CLI#readme"
+}
